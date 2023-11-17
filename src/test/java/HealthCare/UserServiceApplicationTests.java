@@ -11,7 +11,6 @@ class UserServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
-        assertTrue(true);
 	}
 
 }
